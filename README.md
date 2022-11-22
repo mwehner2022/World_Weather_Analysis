@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 # **Purpose**
-The purpose of this assignment was to help create an app called PlanMyTrip. The code should allow users to input their desired weather preferences and then identify potential travel destinations. From this information a potential itinerary can be made.
+The purpose of this assignment was to help create an app called PlanMyTrip. The code should allow users to input their desired weather preferences and then identify potential travel destinations. From input information, a potential itinerary can be made.
 
 ## **Goal**
 - Retrieve Weather Data
